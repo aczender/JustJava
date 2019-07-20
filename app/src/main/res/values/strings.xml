@@ -75,6 +75,6 @@
        "Just Java order for Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
      -->
      <string name="order_summary_email_subject">Just Java order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
-    <string name="decremet_toast" translatable="false">You cannot have less than 1 coffee</string>
-     <string name="increment_toast" translatable="false">You cannot have more than 100 coffees</string>
+    <string name="decremet_toast">You cannot have less than 1 coffee</string>
+     <string name="increment_toast">You cannot have more than 100 coffees</string>
 </resources>
